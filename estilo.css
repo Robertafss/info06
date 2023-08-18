@@ -51,3 +51,6 @@ ul {
     text-decoration-line: overline underline;
     text-decoration-color: purple;  
   }
+  img:hover {
+    opacity: 0.5;
+  }
